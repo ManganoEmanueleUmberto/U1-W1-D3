@@ -1,3 +1,8 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;200;300;400;700&display=swap");
+
+body {
+  font-family: "Roboto", sans-serif;
+}
 #logo {
   width: 250px;
   height: 100px;
@@ -47,7 +52,7 @@ main h2 {
   font-weight: 700;
 }
 .Lista-focaccia {
-  font-weight: 200;
+  font-weight: 300;
 }
 
 #listaordinata {
@@ -56,5 +61,5 @@ main h2 {
 }
 #paragrafofinale {
   padding-left: 5%;
-  font-size: 200;
+  font-size: 300;
 }
